@@ -1,0 +1,26 @@
+{
+  "name": "scala",
+  "argv": [
+    "C:\\Users\\acerp\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\virtuslab\\scala-cli\\cli_3\\1.4.0\\cli_3-1.4.0.jar",
+    "--cli-default-scala-version",
+    "3.5.0",
+    "--repository",
+    "file:///C:/Users/acerp/AppData/Local/Coursier/cache/arc/https/github.com/scala/scala3/releases/download/3.5.0/scala3-3.5.0-x86_64-pc-win32.zip/scala3-3.5.0-x86_64-pc-win32/maven2",
+    "--prog-name",
+    "scala",
+    "bsp",
+    "--json-options",
+    "c:\\Users\\acerp\\OneDrive\\Desktop\\Road_Traffic _Simulation\\road_traffic_simulation\\src\\main\\scala\\example\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "c:\\Users\\acerp\\OneDrive\\Desktop\\Road_Traffic _Simulation\\road_traffic_simulation\\src\\main\\scala\\example\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "c:\\Users\\acerp\\OneDrive\\Desktop\\Road_Traffic _Simulation\\road_traffic_simulation\\src\\main\\scala\\example\\.scala-build\\ide-envs.json",
+    "c:\\Users\\acerp\\OneDrive\\Desktop\\Road_Traffic _Simulation\\road_traffic_simulation\\src\\main\\scala\\example\\Main.scala"
+  ],
+  "version": "1.4.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

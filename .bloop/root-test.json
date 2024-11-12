@@ -16,8 +16,12 @@
         ],
         "classpath": [
             "C:\\Users\\acerp\\OneDrive\\Desktop\\Road_Traffic _Simulation\\road_traffic_simulation\\.bloop\\root\\scala-2.13\\classes",
-            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.15\\scala-library-2.13.15.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalanlp\\breeze_2.13\\2.1.0\\breeze_2.13-2.1.0.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\16.0.0-R24\\scalafx_2.13-16.0.0-R24.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\19\\javafx-controls-19-win.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-fxml\\19\\javafx-fxml-19-win.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-media\\19\\javafx-media-19-win.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalanlp\\breeze-macros_2.13\\2.1.0\\breeze-macros_2.13-2.1.0.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\dev\\ludovic\\netlib\\blas\\3.0.1\\blas-3.0.1.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\dev\\ludovic\\netlib\\lapack\\3.0.1\\lapack-3.0.1.jar",
@@ -29,13 +33,18 @@
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\slf4j\\slf4j-api\\1.7.5\\slf4j-api-1.7.5.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-collection-compat_2.13\\2.7.0\\scala-collection-compat_2.13-2.7.0.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\spire_2.13\\0.18.0\\spire_2.13-0.18.0.jar",
-            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.15\\scala-reflect-2.13.15.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\19\\javafx-graphics-19.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\19\\javafx-controls-19.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\pl\\edu\\icm\\JLargeArrays\\1.5\\JLargeArrays-1.5.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\spire-macros_2.13\\0.18.0\\spire-macros_2.13-0.18.0.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\spire-platform_2.13\\0.18.0\\spire-platform_2.13-0.18.0.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\spire-util_2.13\\0.18.0\\spire-util_2.13-0.18.0.jar",
             "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\algebra_2.13\\2.8.0\\algebra_2.13-2.8.0.jar",
-            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\cats-kernel_2.13\\2.8.0\\cats-kernel_2.13-2.8.0.jar"
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\19\\javafx-graphics-19-win.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\19\\javafx-base-19.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\cats-kernel_2.13\\2.8.0\\cats-kernel_2.13-2.8.0.jar",
+            "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\19\\javafx-base-19-win.jar"
         ],
         "out": "C:\\Users\\acerp\\OneDrive\\Desktop\\Road_Traffic _Simulation\\road_traffic_simulation\\.bloop\\root",
         "classesDir": "C:\\Users\\acerp\\OneDrive\\Desktop\\Road_Traffic _Simulation\\road_traffic_simulation\\.bloop\\root\\scala-2.13\\test-classes",
@@ -46,17 +55,17 @@
         "scala": {
             "organization": "org.scala-lang",
             "name": "scala-compiler",
-            "version": "2.13.12",
+            "version": "2.13.15",
             "options": [
                 
             ],
             "jars": [
-                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar",
-                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.12\\scala-compiler-2.13.12.jar",
-                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12.jar",
+                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.15\\scala-library-2.13.15.jar",
+                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.15\\scala-compiler-2.13.15.jar",
+                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.15\\scala-reflect-2.13.15.jar",
                 "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\github\\java-diff-utils\\java-diff-utils\\4.12\\java-diff-utils-4.12.jar",
-                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.22.0\\jline-3.22.0.jar",
-                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.13.0\\jna-5.13.0.jar"
+                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.26.3\\jline-3.26.3.jar",
+                "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.14.0\\jna-5.14.0.jar"
             ],
             "setup": {
                 "order": "mixed",
@@ -148,17 +157,17 @@
                 {
                     "organization": "org.scala-lang",
                     "name": "scala-library",
-                    "version": "2.13.12",
+                    "version": "2.13.15",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar"
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.15\\scala-library-2.13.15.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12-sources.jar"
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.15\\scala-library-2.13.15-sources.jar"
                         }
                     ]
                 },
@@ -176,6 +185,23 @@
                             "name": "breeze_2.13",
                             "classifier": "sources",
                             "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalanlp\\breeze_2.13\\2.1.0\\breeze_2.13-2.1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scalafx",
+                    "name": "scalafx_2.13",
+                    "version": "16.0.0-R24",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalafx_2.13",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\16.0.0-R24\\scalafx_2.13-16.0.0-R24.jar"
+                        },
+                        {
+                            "name": "scalafx_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\16.0.0-R24\\scalafx_2.13-16.0.0-R24-sources.jar"
                         }
                     ]
                 },
@@ -364,17 +390,56 @@
                 {
                     "organization": "org.scala-lang",
                     "name": "scala-reflect",
-                    "version": "2.13.12",
+                    "version": "2.13.15",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "scala-reflect",
-                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12.jar"
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.15\\scala-reflect-2.13.15.jar"
                         },
                         {
                             "name": "scala-reflect",
                             "classifier": "sources",
-                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12-sources.jar"
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.15\\scala-reflect-2.13.15-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-graphics",
+                    "version": "19",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-graphics",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\19\\javafx-graphics-19.jar"
+                        },
+                        {
+                            "name": "javafx-graphics",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\19\\javafx-graphics-19-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-controls",
+                    "version": "19",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-controls",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\19\\javafx-controls-19.jar"
+                        },
+                        {
+                            "name": "javafx-controls",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\19\\javafx-controls-19-sources.jar"
+                        },
+                        {
+                            "name": "javafx-controls",
+                            "classifier": "win",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\19\\javafx-controls-19-win.jar"
                         }
                     ]
                 },
@@ -464,6 +529,23 @@
                     ]
                 },
                 {
+                    "organization": "org.openjfx",
+                    "name": "javafx-base",
+                    "version": "19",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "javafx-base",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\19\\javafx-base-19.jar"
+                        },
+                        {
+                            "name": "javafx-base",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\19\\javafx-base-19-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.typelevel",
                     "name": "cats-kernel_2.13",
                     "version": "2.8.0",
@@ -483,17 +565,17 @@
                 {
                     "organization": "org.scala-lang",
                     "name": "scala-library",
-                    "version": "2.13.12",
+                    "version": "2.13.15",
                     "configurations": "optional",
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar"
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.15\\scala-library-2.13.15.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12-sources.jar"
+                            "path": "C:\\Users\\acerp\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.15\\scala-library-2.13.15-sources.jar"
                         }
                     ]
                 }
